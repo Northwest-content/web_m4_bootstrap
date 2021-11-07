@@ -30,6 +30,7 @@ Now!!!!
 
 3. Remove the other page options (If you want to do other pages 😉 that would be nice 🥰)
 
+
 ![img](https://lh6.googleusercontent.com/th_j2ytHwvlNs23OpxOuqnIWDNkp0ogwENNbHIIbvBl1xq5IrnuruYd9hJ47itD4tC1UoMY53p86oI3ZtwszELIiYQ200lVkzgrI6EAwAx6RlHPxoymAX4MNRSACjquWSUnU4kbZ=s0)
 
 4. Notice that the `<button>` on the side is no longer needed
@@ -44,6 +45,7 @@ We will be adding `bootstrap` cards so we can place the images in them 💙
 
 1. Adding the `Card` code
 
+
 ![img](https://lh6.googleusercontent.com/_B6E4KotnPkSwbwe0mnBNdDaW_nf9fOU8kO4PDhLCG2kHqsW7Ac1VKCOhdMROs2QSwEu8E8jRWupDKp_Y2LZ4O_Fniclp7pD7Y-GZ176c-mOrvnvLedpIgpYOl59FH0R6kAO-xgA=s0)
 
 2. Place a `div` called `container` around the card
@@ -53,6 +55,7 @@ We will be adding `bootstrap` cards so we can place the images in them 💙
    Now we can add some `margin` to fix it a bit
 
 3. Edit the card information
+
 
 ![img](https://lh3.googleusercontent.com/BXYc4Vxnf3kH2ZNe34SrPQ5x1QPlW7gsaaxoids2vrJ1NJhYTlcGZNsjaNaJks36ai_h1o87CE_t7H6jfyB80N_aCYWjZ2S9jOvSYhYpI9oqnRyGWVriliOf92lwbZC0HXYMz2XH=s0)
 
